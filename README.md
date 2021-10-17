@@ -14,3 +14,5 @@ Para ejecutar cada script es necesario correr el siguiente comando en la raíz d
 Donde folder puede ser "document" o "collection" segun lo que busques y "script" es el nombre del script dentro de cada directorio.
 
 Además, es necesario cambiar los id de las colecciones y documentos segun corresponda.
+
+[![asciicast](https://asciinema.org/a/442713.svg)](https://asciinema.org/a/442713)
